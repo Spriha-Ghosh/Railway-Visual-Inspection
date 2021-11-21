@@ -17,8 +17,16 @@ Ministers ordered a rapid review after the latest problem discovered in the Hita
 ```
 
 ## Potential Client
-## Project Workflow
+## Project Context
+```diff
+* The application described in this project consists of inspecting railroad tracks for defects on crossties and rail fasteners using single-view line-scan cameras.
+* The crossties may of different materials (e.g. wood, concrete, plastic, or metal), and the fasteners could be of different types (e.g. elastic clips, bolts, or spikes). 
+* We have posed this problem as an detection problems: object detection (good, broken, or missing fastener)
+```
+
 ## Data Description
+
+The dataset used to demonstrate this approach comprises 85 miles of track in which the bounding boxes of 203,287 ties have been provided. This data is very challenging to work with. The images were collected from a moving vehicle and although there was artificial illumination, there are significant variations in illumination due to sun position and shadows. To reduce friction between rails and wheels and prolong their usable lives, railroads may lubricate them using special equipment mounted along the tracks. At locations near these lubricators, tracks get dirty and the accumulation of greasy deposits significantly change the appearance of the images. There are also some spots in which the tracks are covered by mud being pumped through the ballast during heavy rainfall. Moreover, there are also places in which the ballast is unevently distributed and pieces of ballast rock cover the ties and fasteners being inspected. Also, leaves, weeds, branches, trash and other debris may occlude the track components being inspected.
 ## Citation
 
 - https://ieeexplore.ieee.org/document/9451771
