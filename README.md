@@ -20,3 +20,7 @@ Ministers ordered a rapid review after the latest problem discovered in the Hita
 ## Project Workflow
 ## Data Description
 ## Citation
+
+- https://ieeexplore.ieee.org/document/9451771
+- https://www.researchgate.net/publication/328824853_An_Efficient_Framework_to_Detect_Cracks_in_Rail_Tracks_Using_Neural_Network_Classifier
+- https://www.sciencedirect.com/science/article/abs/pii/S0926580518306745
