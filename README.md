@@ -17,6 +17,12 @@ Ministers ordered a rapid review after the latest problem discovered in the Hita
 ```
 
 ## Potential Client
+
+`Hitachi Rails` is a company that offers fully integrated, rail solutions across rolling stock, signalling, operation, service & maintenance, digital technology and turnkey.
+However recently Cracking that led to high-speed trains being withdrawn from service was down to fatigue and stress corrosion, a government report has found. Around 180 Hitachi trains were taken out of service.  🧷https://www.bbc.com/news/uk-england-58494275
+
+![ChessUrl](https://i.imgur.com/RZqQDSL.gif?noredirect "chess")
+
 ## Project Context
 ```diff
 * The application described in this project consists of inspecting railroad tracks for defects on `crossties` and `rail fasteners` using single-view line-scan cameras.
@@ -26,7 +32,13 @@ Ministers ordered a rapid review after the latest problem discovered in the Hita
 
 ## Data Description
 
-The dataset used to demonstrate this approach comprises 85 miles of track in which the bounding boxes of 203,287 ties have been provided. This data is very challenging to work with. The images were collected from a moving vehicle and although there was artificial illumination, there are significant variations in illumination due to sun position and shadows. To reduce friction between rails and wheels and prolong their usable lives, railroads may lubricate them using special equipment mounted along the tracks. At locations near these lubricators, tracks get dirty and the accumulation of greasy deposits significantly change the appearance of the images. There are also some spots in which the tracks are covered by mud being pumped through the ballast during heavy rainfall. Moreover, there are also places in which the ballast is unevently distributed and pieces of ballast rock cover the ties and fasteners being inspected. Also, leaves, weeds, branches, trash and other debris may occlude the track components being inspected.
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)The dataset used to demonstrate this approach comprises 85 miles of track in which the bounding boxes of 203,287 ties have been provided. 
+
+>This data is very challenging to work with. The images were collected from a moving vehicle and although there was artificial illumination, there are significant variations in >illumination due to sun position and shadows. To reduce friction between rails and wheels and prolong their usable lives, railroads may lubricate them using special equipment >mounted along the tracks. 
+
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)At locations near these lubricators, tracks get dirty and the accumulation of greasy deposits significantly change the appearance of the images. 
+
+>There are also some spots in which the tracks are covered by mud being pumped through the ballast during heavy rainfall. Moreover, there are also places in which the ballast is >unevently distributed and pieces of ballast rock cover the ties and fasteners being inspected. Also, leaves, weeds, branches, trash and other debris may occlude the track >components being inspected.
 ## Citation
 
 - https://ieeexplore.ieee.org/document/9451771
