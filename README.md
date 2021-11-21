@@ -19,9 +19,9 @@ Ministers ordered a rapid review after the latest problem discovered in the Hita
 ## Potential Client
 ## Project Context
 ```diff
-$ The application described in this project consists of inspecting railroad tracks for defects on crossties and rail fasteners using single-view line-scan cameras.
+* The application described in this project consists of inspecting railroad tracks for defects on `crossties` and `rail fasteners` using single-view line-scan cameras.
 * The crossties may of different materials (e.g. wood, concrete, plastic, or metal), and the fasteners could be of different types (e.g. elastic clips, bolts, or spikes). 
-* We have posed this problem as an detection problems: object detection (good, broken, or missing fastener)
+* We have posed this problem as an detection problems: `object detection` (good, broken, or missing fastener)
 ```
 
 ## Data Description
