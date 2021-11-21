@@ -12,6 +12,10 @@ Urgent inspections were being carried out across the operators’ fleets after h
 Ministers ordered a rapid review after the latest problem discovered in the Hitachi trains led to them being withdrawn from the network overnight on Friday, leaving thousands of passengers unable to travel on lines linking London to Scotland and to the south-west.
 
 ## Our Approach
+```diff
+@@ The proposed model enables the employment of deep learning algorithms using low-power computational devices for a hassle-free monitoring of civil structures.@@
+```
+
 ## Potential Client
 ## Project Workflow
 ## Data Description
